@@ -321,11 +321,15 @@
     "definition": "Javascript based open source front end web application framework used for creating rich, extensible web applications."
   },
   {
+    "word": "UAT (User Acceptance Testing)",
+    "definition": "Formal testing done often by the user, with respect to user needs, requirements, and business processes conducted to determine whether or not a system satisfies the acceptance criteria and to enable the user to determine whether or not to accept the system."
+  },
+  {
     "word": "Web Worker",
     "definition": "JavaScript script executed from an HTML page that runs in the background, independently of user-interface scripts that may also have been executed from the same HTML page."
   },
   {
-    "word": "WebAssembly",
+    "word": "WebAssembly"
     "definition": "WebAssembly (Wasm, WA) is a web standard that defines a binary format and a corresponding assembly-like text format for executable code in Web pages. It is meant to enable executing code nearly as fast as running native machine code."
   },
   {
